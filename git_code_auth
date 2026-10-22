@@ -1,6 +1,6 @@
 auth = a
-a = 30
-b = e
-c = b - c
+a = 11
+b = g
+c = a - auth
 
   
