@@ -1,0 +1,6 @@
+auth = a
+a = 20
+b = c
+c = b - auth
+
+  
